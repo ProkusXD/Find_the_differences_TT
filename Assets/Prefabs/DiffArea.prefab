@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2316028886736403081}
   - component: {fileID: 1202860482293213790}
   - component: {fileID: 5788449608051408881}
+  - component: {fileID: 576499625524071910}
   m_Layer: 5
   m_Name: DiffArea
   m_TagString: DiffArea
@@ -90,3 +91,16 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 50
+--- !u!114 &576499625524071910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7832266526453046859}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfa8c158f3a7ef94daa2ccd50f1e6170, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  c: {fileID: 0}
